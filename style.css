@@ -1,15 +1,15 @@
 @font-face {
-  font-family: CaviarDreams;
+  font-family: "Caviar Dreams";
   src: url("CaviarDreams.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: CaviarDreamsBold;
+  font-family: "Caviar Dreams Bold";
   src: url("CaviarDreams_Bold.ttf") format("truetype");
 }
 
 #txt {
-  font-family: CaviarDreams, Fallback, sans-serif;
+  font-family: "Caviar Dreams";
   font-size: 350px;
   text-align: center;
   vertical-align: center;
