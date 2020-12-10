@@ -9,7 +9,7 @@
 }
 
 #txt {
-  font-family: "Caviar Dreams";
+  font-family: "Caviar Dreams", Fallback, sans-serif;
   font-size: 350px;
   text-align: center;
   vertical-align: center;
