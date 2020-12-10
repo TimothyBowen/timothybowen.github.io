@@ -4,7 +4,7 @@ function sleep(ms) {
 }
 
 function hacker() {
-  var hackObj = {data: "VmliZSBvdmVyIHRvICIvaGFja21lLmh0bWwi", status: "encoded"};
+  var hackObj = {data: "VmliZSBvdmVyIHRvICIvaGFja21lLmh0bWwiCmkgYmV0IHlvdSBjYW50IGhhY2sgdGhpcw==", status: "encoded"};
   return hackObj;
 }
 
