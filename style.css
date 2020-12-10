@@ -1,5 +1,12 @@
-#page1H1 {
-  size: 250;
-  align-self: center;
+#txt {
+  font-size: 350px;
   text-align: center;
+  vertical-align: center;
+  padding: 15vh;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  vertical-align: center;
 }
